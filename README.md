@@ -78,7 +78,7 @@ flutter-learning/
 # 📚 Learning Roadmap
 
 - [x] Dart Fundamentals
-- [ ] Variables & Data Types
+- [x] Variables & Data Types
 - [ ] Functions
 - [ ] OOP Concepts
 - [ ] Collections
