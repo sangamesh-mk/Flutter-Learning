@@ -12,3 +12,4 @@ void DispayName() {
 void DisplayAge() {
   print(20); //OUTPUT: 20
 }
+
